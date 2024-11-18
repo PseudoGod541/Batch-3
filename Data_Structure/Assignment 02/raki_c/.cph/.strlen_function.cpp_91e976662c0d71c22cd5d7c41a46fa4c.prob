@@ -1,0 +1,1 @@
+{"name":"Local: strlen_function","url":"d:\\Batch 3\\Data Structure\\Assignment 02\\raki_c\\strlen_function.cpp","tests":[{"id":1687199895655,"input":"hello","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch 3\\Data Structure\\Assignment 02\\raki_c\\strlen_function.cpp","group":"local","local":true}

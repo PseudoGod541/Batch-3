@@ -1,0 +1,1 @@
+{"name":"Local: dividor","url":"d:\\Batch 3\\Data Structure\\Assignment\\dividor.cpp","tests":[{"id":1686942210562,"input":"2\n12\n21","output":"1 2 3 4 6 12\n1 3 7 21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch 3\\Data Structure\\Assignment\\dividor.cpp","group":"local","local":true}
